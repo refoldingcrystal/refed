@@ -2,6 +2,8 @@
 
 Minimal terminal-based text editor written in less than 500 lines of C
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - two modes:
